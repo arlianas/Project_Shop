@@ -1,0 +1,1 @@
+This is a Shopping Cart-like application. We create a form where we have the price of certain products. We ask the user to enter the quantities of each product and we calculate the total price of all products. This application uses cookies, so when the user gets back any time, he can find the values of the quantities entered before.
